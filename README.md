@@ -7,3 +7,4 @@ The merge file is to merge all of the fragmented csv's into one csv. The juypter
 You can find the dataset here: 
 https://www.kaggle.com/datasets/madhavmalhotra/unb-cic-iot-dataset/data
 
+UPDATE: Created a chunking/merging python script for the pickle model file. You can find the chunked pieces for my model, just run the picklecombine python script to combine.
